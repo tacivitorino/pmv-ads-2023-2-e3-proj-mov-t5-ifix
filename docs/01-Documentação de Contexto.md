@@ -30,6 +30,7 @@ A criação deste aplicativo irá trazer diversos benefícios a empresa e ao usu
 -   Fidelização do cliente: A empresa poderá usar o cadastro dos usuários para ações de marketing.
 -   Garantia: O cliente terá a comprovanção dos serviços prestados pela assistência técnica autorizada.
 
+
 ## Público-Alvo
 
 O público-alvo para o aplicativo de assistência técnica autorizada Apple é composto por usuários de produtos Apple que necessitam de serviços de reparo, suporte e manutenção para seus dispositivos. Esse grupo de pessoas abrange uma ampla gama de idades e interesses, mas compartilha a característica de possuir produtos da marca Apple e procurar soluções de assistência técnica confiáveis e convenientes.
