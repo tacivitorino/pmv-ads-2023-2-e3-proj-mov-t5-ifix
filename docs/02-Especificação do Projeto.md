@@ -1,4 +1,3 @@
-# Especificações do Projeto
 
 # Especificações do Projeto
 
