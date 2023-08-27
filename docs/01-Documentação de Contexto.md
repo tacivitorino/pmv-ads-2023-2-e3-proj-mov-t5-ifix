@@ -48,5 +48,3 @@ O público-alvo para o aplicativo de assistência técnica autorizada Apple é c
 
 
 
-
-
