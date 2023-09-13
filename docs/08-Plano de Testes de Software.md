@@ -9,6 +9,7 @@ Os requisitos para realização dos testes de software são:
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
  
 | Caso de Teste 	|**CT-01 – Cadastrar perfil**|
+|:---:	|:---:	|
 |	Requisito Associado 	| RF-001 - O sistema deverá permitir a criação de um perfil de usuário para o responsável do aparelho Apple associado ao seu e-mail.
 | Objetivo do Teste 	| Verificar a funcionalidade de criar uma conta no aplicativo. |
 | Passos 	| - Acessar o aplicativo <br> - Clicar em "Entrar" <br>  - Clicar na opção "Registre-se" <br> -Escolher seu perfil (Administrador  ou usuário <br>- Preencher os campos obrigatórios (nome completo, e-mail, telefone, CPF, senha, confirmação de senha) <br> - Clicar em "Registrar" |
